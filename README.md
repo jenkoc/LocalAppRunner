@@ -13,5 +13,9 @@ LocalAppRunner
                (Default) = "C:\Windows\System32\cmd.exe" "%1"
 ```
 
+# Example
+![](Example.gif)
+
+
 # Reference 
 - https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa767914(v=vs.85)
