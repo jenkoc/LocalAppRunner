@@ -1,0 +1,38 @@
+{
+  "id": "7e883514-3ff8-412c-ba89-bd980e18d57c",
+  "name": "LocalAppRunner",
+  "publisher": "jenkoc",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://github.com/jenkoc/LocalAppRunner",
+  "url": "https://github.com/jenkoc/LocalAppRunner",
+  "logo": "Assets/jenkoc_logo_512_512.png",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://CustomUrlRunner.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
